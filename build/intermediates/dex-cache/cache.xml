@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Android\AndroidStudio\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="E:\Current Projects\VR\app\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_94c2a52e967acff703d0ea3c005d9b893b6c12b3.jar" />
+    </item>
+    <item
+        jar="E:\Current Projects\VR\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="E:\Current Projects\VR\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.3.0_369fe8267e266b3779aebacd4656c31c67662b17.jar" />
+    </item>
+    <item
+        jar="E:\Current Projects\VR\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="E:\Current Projects\VR\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.3.0_10c34523deff10aab13b55ef48b53011cd70bc2b.jar" />
+    </item>
+    <item
+        jar="E:\Current Projects\VR\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7f422bc4836714fc1bf18743bae5abd7f69c6477">
+        <dex dex="E:\Current Projects\VR\app\build\intermediates\pre-dexed\debug\instant-run_d583b6bf0cecc7550cc6bd0298da9fdf0520753a.jar" />
+    </item>
+    <item
+        jar="E:\Current Projects\VR\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1f5588777c52f8443d834986a2f03c4af005d412">
+        <dex dex="E:\Current Projects\VR\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_23bdda4437c5d6e0e7b212ee13d075b2fe9d2311.jar" />
+    </item>
+    <item
+        jar="E:\Current Projects\VR\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="E:\Current Projects\VR\app\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_7966078fe11186ca857d1ded26034bf183367f4c.jar" />
+    </item>
+    <item
+        jar="E:\Current Projects\VR\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="E:\Current Projects\VR\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.3.0_360845e47cf357751c8415124c39450a13a7aa31.jar" />
+    </item>
+    <item
+        jar="E:\Current Projects\VR\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="E:\Current Projects\VR\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.3.0_5cff2b86f1a0b3331fa19a7b3a0a7f9978cba237.jar" />
+    </item>
+    <item
+        jar="E:\Current Projects\VR\app\build\intermediates\exploded-aar\com.android.support\design\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="E:\Current Projects\VR\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.3.0_ef04b4c4892e01530ea0d7f2d0c246734b12f959.jar" />
+    </item>
+    <item
+        jar="E:\Current Projects\VR\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="E:\Current Projects\VR\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.3.0_e0c0f5f02ed76d58d02337ae40ca4fcce2bb4e1c.jar" />
+    </item>
+
+</items>
